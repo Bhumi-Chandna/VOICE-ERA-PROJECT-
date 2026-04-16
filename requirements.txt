@@ -1,0 +1,15 @@
+Flask
+Flask-SocketIO
+python-socketio
+python-engineio
+eventlet
+numpy
+opencv-python
+mediapipe
+tensorflow
+joblib
+python-dotenv
+Werkzeug
+Jinja2
+gunicorn
+requests 
